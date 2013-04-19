@@ -1,0 +1,28 @@
+
+.syndvProductBox ul {
+	width: 100%;
+}
+ .syndvProductBox ul li {
+	width: 310px;
+	height: 145px;
+	padding-left: 5px;
+	padding-right: 5px;
+	clear: none !important;
+}
+ .syndvProductBox ul li a, .syndvProductBox ul li a:hover,
+ .syndvProductBox ul li a:visited, .syndvProductBox ul li a:active {
+	padding: 0 3px 0 5px !important;
+	font-size: 12pt;
+	font-weight: bold;
+}
+.syndvProductList li p {
+	width: 48%;
+	float: left;
+}
+.syndvProductImgLink {
+	float: rigth;
+}
+.syndvProductNameLink {
+	float: left;
+	width: 48%;
+}
